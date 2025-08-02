@@ -6,6 +6,3 @@
 * React Router
 * Mantine
 * Tailwind CSS
-
-To add:
-* Tailwind linting
